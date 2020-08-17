@@ -1,24 +1,20 @@
 <channels>
 <channel>
-<name>BEM VINDO</name>
-<thumbnail>https://archive.org/download/bem-vindo_20200817_1211/BEM%20VINDO.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - KodiPlay[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801404.us.archive.org/25/items/fanart_20200320/bemvindo.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801400.us.archive.org/17/items/bem-vindo_20200817_1211/ENTRAR%20.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TOTORO-ADDON/TOTORO-ADDON/master/CATEGORIAS</externallink>
 <fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
 <info>
 
-[COLOR deeppink]|[/COLOR] - nda - [COLOR deeppink]|[/COLOR]</info>
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801404.us.archive.org/25/items/fanart_20200320/entrar.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/felliphexd/CATEGORIAS/master/CATEGORIAS
+<fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - Fora COUROUNA VAIRUS! - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
-
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
